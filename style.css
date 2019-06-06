@@ -1,0 +1,23 @@
+header, 
+footer{
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px solid black;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+section,
+article,
+aside{
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px solid black;
+    line-height: 30px;
+    overflow: hidden;
+}
+
+.show-grid{
+    background-color: red;
+}
